@@ -1,0 +1,19 @@
+body {
+    background-color:grey;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+label {
+    font-weight: bold;
+}
+
+
+button {
+    color: white;
+    background-color:red;
+}
+   
+
+
+
